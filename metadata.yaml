@@ -1,5 +1,5 @@
 _repo: The-History-of-Don-Quixote-Volume-1-Complete_5921
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Doré, Gustave
@@ -21,13 +21,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/506
 covers:
 - cover_type: archival
-  image_path: 5921/5921-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 5921/5921-h/images/bookcover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 5921-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Cervantes Saavedra, Miguel de
@@ -44,6 +38,8 @@ creator:
     - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5921#The-History-of-Don-Quixote-Volume-1-Complete
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Banned Books from Anne Haight's list
