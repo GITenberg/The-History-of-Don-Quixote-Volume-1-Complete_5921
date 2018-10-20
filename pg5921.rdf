@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/5921">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/5921.kindle.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:17:54.178144</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N49d959b81573414c91d78f6bf42f8f5a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2271785</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N18dd7f7213774073bc59745d1d7ea2ed">
+        <rdf:value>PQ</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-07-19</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/5921/5921-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1211692</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-11T11:00:32</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6041e2617ba84b68bee7774adb568054">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N9b62686f487c4019bd5c7f3ca0984ad0">
+        <rdf:value>Knights and knighthood -- Spain -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/5921/5921-h/5921-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-11T11:00:32</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1307833</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N84459aad7fe34d3bbadaef01a2ada839">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc901>file:///public/vhost/g/gutenberg/html/files/5921/5921-h/images/bookcover.jpg</pgterms:marc901>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/5921.epub.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15227952</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N52609b238c164dcfab755a4700c590d1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:17:36.575436</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N180807a66f8f4219908a2fb01411d7a9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Picaresque literature</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <marcrel:trl>
+      <pgterms:agent rdf:about="2009/agents/506">
+        <pgterms:name>Ormsby, John</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1829</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1895</pgterms:deathdate>
+      </pgterms:agent>
+    </marcrel:trl>
+    <pgterms:marc901>http://www.gutenberg.org/files/5921/5921-h/images/cover.jpg</pgterms:marc901>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N54515ffb0e724942818f51d63310088e">
+        <rdf:value>Best Books Ever Listings</rdf:value>
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/5921/5921-0.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-11T11:01:04</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9b52c82362ea438188eb0655cb224fdd">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">453751</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb55081ca556d4823940d8106702481cb">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/5921/5921.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-07-27T08:26:26</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9da3d4979d45464882df1ccd32273efe">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1200167</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/505">
+        <pgterms:alias>De Cervantes Saavedra, Miguel</pgterms:alias>
+        <pgterms:webpage rdf:resource="http://es.wikipedia.org/wiki/Miguel_de_Cervantes"/>
+        <pgterms:alias>Saavedra, Miguel de Cervantes</pgterms:alias>
+        <pgterms:alias>Cervantes, Miguel de</pgterms:alias>
+        <pgterms:name>Cervantes Saavedra, Miguel de</pgterms:name>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Miguel_de_Cervantes"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1616</pgterms:deathdate>
+        <pgterms:alias>Cervantes, Michel</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1547</pgterms:birthdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>The History of Don Quixote, Volume 1, Complete</dcterms:title>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N5e077d2d1dc14f9fbc1a74d6ca5184ad">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Romances</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/5921.kindle.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31170096</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:17:49.633213</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd02eb6bdb636457e926de25cddb958b4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/5921/pg5921.cover.small.jpg">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N77abd66e9bc548de9d3f66d4234063e6">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2554</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:17:54.322138</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1318</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/5921.rdf">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:04:18.860970</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17284</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N67c261c95d2c4c5eb9640604fdc0e6ca">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/5921.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621229</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N81735efbe20b47b1a0c1fd55c2b19eae">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:17:37.326417</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/5921/5921.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462993</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N62a9706ea80145b08098352c4c8003d1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N96acf1dabf1047ffa6faa26fcdc6abd2">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-07-27T09:40:08</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="Nae2cb55e05474f0e9a5db0911e0710b4">
+        <rdf:value>Banned Books from Anne Haight's list</rdf:value>
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4f05dfe63bbb494ba2e3f8c1c5f61c54">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Spain -- Social life and customs -- 16th century -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/cache/epub/5921/pg5921.cover.medium.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18664</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2c5546cc87954b12ae429d3985cd1d9c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T03:17:54.454140</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <marcrel:ill>
+      <pgterms:agent rdf:about="2009/agents/1896">
+        <pgterms:alias>Dore, Gustave</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1832</pgterms:birthdate>
+        <pgterms:alias>Dorè, Gustave</pgterms:alias>
+        <pgterms:alias>Doré, Louis Auguste Gustave</pgterms:alias>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/Gustave_Doré"/>
+        <pgterms:name>Doré, Gustave</pgterms:name>
+        <pgterms:alias>Doré, Louis Christophe Paul Gustave</pgterms:alias>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1883</pgterms:deathdate>
+      </pgterms:agent>
+    </marcrel:ill>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N084046662dd24b6eb3ee0361c2c5ea74">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nfcbb10faf45248bda7b6a85dfcd807bc">
+        <rdf:value>Text</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/5921/5921-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/5921"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N75d8f4553064451e82c31e55c008751c">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29039109</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-07-11T11:01:06</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N749e4e30cbac46d3800ad142d54ec165">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Gustave_Doré">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Miguel_de_Cervantes">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.wikipedia.org/wiki/Miguel_de_Cervantes">
+    <dcterms:description>es.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
